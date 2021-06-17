@@ -1,0 +1,49 @@
+
+/*Mi imagen superior*/
+.centrado{
+    
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+/*título*/
+h1{
+    color: black;
+    text-align: center;
+}
+/*Cabecera*/
+header{
+    background-color: beige;
+    background-image: url('../img/banner\ CV.jpg');
+    height:500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+    background-size: cover;
+    opacity: 0.7;
+}
+
+ 
+
+/* Subtítulos*/
+h2{ 
+    color: blue; 
+}
+
+/*Barra de Navegación*/
+nav{
+   
+   text-align: center; 
+   font-size: 24px;
+  
+}
+
+/*Pie de Página*/
+footer {
+    background-color: aquamarine;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+ }
+
